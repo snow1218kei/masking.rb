@@ -1,5 +1,4 @@
 require "mysql2"
-require "rubygems"
 require "active_record"
 require "activerecord-import"
 
